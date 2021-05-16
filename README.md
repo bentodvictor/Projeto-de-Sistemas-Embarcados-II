@@ -1,2 +1,2 @@
-# Projeto-de-Sistemas-Embarcados-II
-7º Semestre do curso de Engenharia da Computação - UFSM
+# Embedded-Systems-Design-II
+Embedded Systems Design II material from 7th semester of Computer Engineering - UFSM.
